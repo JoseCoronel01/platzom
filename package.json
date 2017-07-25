@@ -1,5 +1,5 @@
 {
-  "name": "platzom",
+  "name": "@username/platzom",
   "version": "0.1.0",
   "description": "idioma inventado para el curso fundamentos de javascript en platzi",
   "main": "dist/src/platzom.js",
@@ -28,3 +28,4 @@
     "mocha": "^3.4.2"
   }
 }
+//git@github.com:JoseCoronel01/platzom.git
